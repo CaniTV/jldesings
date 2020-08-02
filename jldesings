@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.ADVSet" name="[COLOR orange] ADV [/COLOR]Set" version="2.4" provider-name="Chem@i">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+  <summary>ADV Set - Utilidades by Chem@i</summary>
+  <description>ADV Set. Utilidades extraídas de la web, siendo propiedad de sus autores, para el mantenimiento, optimización, y backup de Kodi. Utilízalo con precaución.</description>
+	<news>[COLOR orange] ADV [/COLOR]Set v 2.4
+* Modificacion en test de los archivos Advanced Settings.
+
+	  </news>
+	  <disclaimer>[COLOR red][B]Enjoy KODI.[/B][/COLOR]</disclaimer>
+	  <platform>all</platform>
+	  <assets>
+      <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    			<screenshot>resources/media/screenshot000.jpg</screenshot>
+    			<screenshot>resources/media/screenshot001.jpg</screenshot>
+    			<screenshot>resources/media/screenshot002.jpg</screenshot>
+    			<screenshot>resources/media/screenshot003.jpg</screenshot>
+    			<screenshot>resources/media/screenshot004.jpg</screenshot>
+    </assets>
+    <license>GNU/GPL - v2</license>
+    <forum>https://docs.google.com/document/d/1nMUbPzMsP8f96eQBmLrd3vgYkEOyCAsfGif76VzazDM/edit</forum>
+    <website>web</website>
+    <email>my@email.com</email>
+    <source>https://</source>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+</addon>
+
+<addon
+    id="plugin.program.chrome.launcher"
+    name="Chrome Launcher"
+    version="1.2.0"
+    provider-name="Jani (@rasjani) Mikkonen">
+    <requires>
+        <import addon="xbmc.python"     version="2.24.0"/>
+        <import addon="xbmc.addon"      version="16.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Launch websites via Chrome in Kiosk-mode</summary>
+        <language></language>
+        <description lang="en">Launch websites via Chrome in Kiosk-mode</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/rasjani/plugin.program.chrome.launcher</source>
+        <forum>http://forum.kodi.tv/showthread.php?tid=170965</forum>
+        <website>https://www.google.com/chrome</website>
+        <email>jani dot mikkonen at gmail.com</email>
+    </extension>
+</addon>
+
+<addon id="plugin.program.KGI" name="KGI YouTube API KEYS" version="1.0.0" provider-name="Kodi Global Info">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0" />
+    <import addon="script.module.requests" version="2.9.1" />
+  </requires><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.ADVSet" name="[COLOR orange] ADV [/COLOR]Set" version="2.4" provider-name="Chem@i">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+  <summary>ADV Set - Utilidades by Chem@i</summary>
+  <description>ADV Set. Utilidades extraídas de la web, siendo propiedad de sus autores, para el mantenimiento, optimización, y backup de Kodi. Utilízalo con precaución.</description>
+	<news>[COLOR orange] ADV [/COLOR]Set v 2.4
+* Modificacion en test de los archivos Advanced Settings.
+
+	  </news>
+	  <disclaimer>[COLOR red][B]Enjoy KODI.[/B][/COLOR]</disclaimer>
+	  <platform>all</platform>
+	  <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    			<screenshot>resources/media/screenshot000.jpg</screenshot>
+    			<screenshot>resources/media/screenshot001.jpg</screenshot>
+    			<screenshot>resources/media/screenshot002.jpg</screenshot>
+    			<screenshot>resources/media/screenshot003.jpg</screenshot>
+    			<screenshot>resources/media/screenshot004.jpg</screenshot>
+    </assets>
+    <license>GNU/GPL - v2</license>
+    <forum>https://docs.google.com/document/d/1nMUbPzMsP8f96eQBmLrd3vgYkEOyCAsfGif76VzazDM/edit</forum>
+    <website>web</website>
+    <email>my@email.com</email>
+    <source>https://</source>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+</addon>
+
+<addon
+    id="plugin.program.chrome.launcher"
+    name="Chrome Launcher"
+    version="1.2.0"
+    provider-name="Jani (@rasjani) Mikkonen">
+    <requires>
+        <import addon="xbmc.python"     version="2.24.0"/>
+        <import addon="xbmc.addon"      version="16.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Launch websites via Chrome in Kiosk-mode</summary>
+        <language></language>
+        <description lang="en">Launch websites via Chrome in Kiosk-mode</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/rasjani/plugin.program.chrome.launcher</source>
+        <forum>http://forum.kodi.tv/showthread.php?tid=170965</forum>
+        <website>https://www.google.com/chrome</website>
+        <email>jani dot mikkonen at gmail.com</email>
+    </extension>
+</addon>
+
+<addon id="plugin.program.KGI" name="KGI YouTube API KEYS" version="1.0.0" provider-name="Kodi Global Info">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0" />
+    <import addon="script.module.requests" version="2.9.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KGI YouTube API KEYS</summary>
+    <description lang="en">KGI YouTube API KEYS Tool</description>
+    <disclaimer lang="en">Tool to add YouTube API Keys to YouTube Addon.</disclaimer>
+    <summary lang="es">KGI YouTube API KEYS</summary>
+    <description lang="es">Herramienta KGI YouTube API KEYS</description>
+    <disclaimer lang="es">Herramienta que añade una API Key al addon de YouTube.</disclaimer>
+    <platform>all</platform>
+        <website></website>
+        <video_guide></video_guide>
+  </extension>
+</addon>
+
+<addon id="plugin.program.kodileiawizard" name="KODILEIA [COLOR gold]WIZARDS[/COLOR]" version="1.10" provider-name="Supertopo, Lou, JuanS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KODILEIA [COLOR gold]WIZARDS[/COLOR]</summary>
+    <description lang="en">Addon instalador de los wizards Kodileia para Kodi 17 y 18
+Fuente: www.kodileia.xyz
+Telegram: t.me/kodi18</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.script.afestaajedrez" name="[COLOR lime]AJEDREZ FESTA[/COLOR]" version="0.0.2" provider-name="FESTA ADDONS lourdes y picapau(addonfesta@gmail.com)">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">ajedrez para Kodi</summary>
+        <description lang="en">juega al ajedrez en kodi! juego traducido al castellano. CREADO POR TOM C. SCHEPER Y MODIFICADO POR ADDONS FESTA, LOURDES Y PICAPAU.
+        </description>
+        <license>All rights reserved</license>
+        <language></language>
+        <forum></forum>
+        <source>https://github.com/tomcss/script.chess</source>
+        <email>addonfesta@gmail.com</email>
+    </extension>
+</addon>
+
+<addon id="plugin.video.aerobic"
+       name="[COLOR pink]Aerobic[/COLOR]"
+       version="0.0.2"
+       provider-name="Juldelju">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Juldelju</summary>
+    <description>Addons dedicado para disfrutar haciendo ejercicio con las coreografias de aerobic/step,zumba,just dande y un poquito de relajacion.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ajedrez"
+	name="Ajedrez"
+	version="1.0"
+	provider-name="ibernet">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Canales Youtube de ajedrez</summary>
+    <description lang="es">Canales dedicados al ajedrez .</description>
+    <platform>all</platform>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+		</assets>
+       </extension>
+</addon>
+
+<addon id="plugin.video.blackghost"
+       name="Black Ghost Free"
+       version="99999999999999999999999999999999999.6"
+       provider-name="CRISTAL AZUL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.resolveurl" />
+	<import addon="script.module.urlresolver" optional="true" />
+    <import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+<addon id="plugin.video.cocina"
+	name="Cocina"
+	version="1.3"
+	provider-name="ibernet">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Canales Youtube de cocina</summary>
+    <description lang="es">Canales dedicados a la cocina.</description>
+    <platform>all</platform>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+		</assets>
+       </extension>
+</addon>
+
+<addon id="plugin.video.cristalazul"
+       name="[COLOR aqua]CRISTAL AZUL[/COLOR]"
+       version="0.0.7"
+       provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+
+        <dir>
+            <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+    </extension>
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>creado por picapau, lourdes, supertopo y luisma</summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>ºº
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.escalofrios"
+       name="[COLOR silver]ESCALOFRIOS[/COLOR]"
+       version="6.6.6"
+       provider-name="Equipo Festa y Tvchopo">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube"  />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Equipo Festa y Tvchopo</summary>
+    <description>Addon de terror</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.7.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+
+
+    <extension point="xbmc.addon.metadata">
+        <summary>f4mTester</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.festa"
+       name="[COLOR aqua]*[/COLOR][COLOR lime]FESTA[/COLOR][COLOR aqua]*[/COLOR]"
+       version="0.0.11"
+       provider-name="lourdes,picapau y el equipo de FESTA">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por lourdes, picapau y el equipo de FESTA</summary>
+    <description>MUCHOS VIERNES A LAS 22:00H (HORA PENINSULAR),SACAMOS UNA NUEVA SECCION. festa 2017/18 version 0.0.10 , modificado para que sea tambien un repositorio,CONTEO DE ENTRADAS AL ADDON</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.festa.inklusion"
+       name="[B][COLOR white]INKLUSION[/COLOR][/B]"
+       version="0.0.1"
+       provider-name="Inklusion por Team FestayCristal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Inklusion por Team FestayCristal</summary>
+    <description>ORIGENES: Este proyecto nace el 5 de enero 2018 de la unión de varios equipos de kodi (Adrianlist, Festa, Kodispain,Tvchopo)
+De esa unión nació el addon más especial de kodi, SIN BARRERAS.
+Un addon dedicado a personas con algún tipo de discapacidad, visual, auditiva, motora, ...
+Un proyecto hecho con mucha ilusión, cariño y respeto por parte de los creadores.
+Como en la vida misma, los amigos se enfandan, otros toman otro rumbo y los caminos se separan, pero el proyecto continúa por parte de algunos miembros.
+2 años y medio después nos arrebatan: el grupo, el nombre, pero jamas las RAICES.
+No pasa nada, quien no ha cambiado alguna vez de domicilio o se ha hecho un cambio de look?
+Pues bien, aqui surge INKLUSION, nueva casa, nuevo look, mismo mantenimiento que el último año y medio.LAS RAICES NO SE PUEDEN BORRAR CON UN DEDO.
+Gracias a los que alguna vez formasteis parte de esto.
+Continuan con el mantenimiento: Grupo @addonfestaycristal
+Creadores Sin Barreras: Adrián Hdz, Delhia, Er Migué, Iker, Jorge H, La mala de la novela, LouFesta, Luisma, Pepe, Picapau, Supertopo, Torete.
+Colaboradores Sin Barreras: Jesus, Lis, JuanS, El rincon de lolo, ToniClasico, AnaM, Natalia, Dani, MikelVito, ElecdekaurUguay</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.festakids"
+       name="[B][COLOR antiquewhite]FESTA[COLOR darkgoldenrod]KIDS[/COLOR][/B]"
+       version="0.0.9"
+       provider-name="Festa team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Festa team</summary>
+    <description>Dedicado a los  pequeñ@s y adolescentes de la familia Festa.Addon de entretenimiento y educativo, porque con Festa Kids, aprender es divertido.</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.FusionOrg" name="Fusion Org"
+	version="0.65" provider-name="Team-Fusion">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0" />
+		<import addon="script.module.requests" version="2.22.0" />
+		<import addon="script.module.urlresolver" version="5.0.54" />
+		<import addon="script.module.resolveurl" version="5.0.38"
+			optional="true" />
+		<import addon="script.module.urllib3" version="1.25.6" />
+		<import addon="script.trakt" version="3.2.4" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource"
+		library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.repository" name="Fusion.org">
+		<info>https://repositorio.fusionorg.net/addons.xml</info>
+		<checksum>https://repositorio.fusionorg.net/addons.xml.md5</checksum>
+		<datadir zip="true">https://repositorio.fusionorg.net/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Fusion Org</summary>
+		<description lang="en">The Future is in You</description>
+		<disclaimer lang="en">
+            <![CDATA[Fusion org, fusionorg.net does [B]not
+store content such as videos, audio or images[/B], everything
+shown in this addon plugin is a compilation of content found
+from [B]different web pages[/B].]]>
+		</disclaimer>
+		<summary lang="es">Fusion Org</summary>
+		<description lang="es">El Futuro esta en Ustedes
+		</description>
+		<disclaimer lang="es">
+            <![CDATA[Fusion org, fusionorg.net [B]no
+almacena contenido como videos, audio o imagenes[/B], todo
+lomostrado en este plugin addon es una recopilacion de
+[B]contenido encontrado de diferentes paginas web[/B].]]>
+		</disclaimer>
+		<language>es-MX</language>
+		<platform>all</platform>
+		<license>GPL-2.0</license>
+		<forum></forum>
+		<website>https://fusionorg.net/</website>
+		<email></email>
+		<source>https://repositorio.fusionorg.net/</source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/media/ss/1.jpg</screenshot>
+			<screenshot>resources/media/ss/2.jpg</screenshot>
+			<screenshot>resources/media/ss/3.jpg</screenshot>
+			<screenshot>resources/media/ss/4.jpg</screenshot>
+			<screenshot>resources/media/ss/5.jpg</screenshot>
+		</assets>
+		<news>
+            <![CDATA[Cambios de la version 0.65 (10/03/2020)
+[FIX] Corregido [B]Gamovideo[/B]
+[IMPROVEMENT] Mejora [B]UpToStream[/B]]]>
+		</news>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.iptvlistas"
+       name="[COLOR lime]iptv listas[/COLOR]"
+       version="0.0.1"
+       provider-name="iptv listas">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">iptv listas Official Plugin</summary>
+    <language>en</language>
+    <description lang="en">iptv listas Official Plugin</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.lilianime"
+       name="[COLOR pink]Lili Anime[/COLOR]"
+       version="0.0.7"
+       provider-name="Lis,JuanS,Lou">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Lis,JuanS,Lou</summary>
+    <description>Se recomienda supervisión parental para acceder directamente a la sección infantil.Sección +16 años con escenas de desnudez fuerte y explícita, escenas fuertes,imagenes muy intensas y sangre en mucha cantidad.Addon dedicado a los  pequeñ@s y adolescentes de la familia Festa.Addon de entretenimiento y educativo, porque con Festa Kids, aprender es divertido.</description>
+    <platform>all</platform>
+	<assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.Manuart"
+       name="[COLOR coral]MANUART[/COLOR]"
+       version="0.0.1"
+       provider-name="AnaM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube"  />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>AnaM</summary>
+    <description>La creatividad no consiste en una nueva manera, sino en una nueva visión. La creatividad es la inteligencia divirtiéndose.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mundocine"
+       name="[COLOR white]Mundo[/COLOR] [COLOR grey]Cine[/COLOR]"
+       version="1.0.5"
+       provider-name="Toni clasico">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR white]Mundo[/COLOR] [COLOR grey]Cine[/COLOR]</summary>
+    <description lang="en">[COLOR grey]Vive todo el cine clasico.[/COLOR].</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sinbarreras"
+       name="[COLOR chartreuse]SIN BARRERAS[/COLOR]"
+       version="1.7"
+       provider-name="SinBarreras">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/</datadir>
+    </extension>
+
+
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>creado por Team Festa y Tvchopo</summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.smartiptvspain-4"
+       name="[COLOR lime]SmartIptvSpain-[/COLOR][COLOR red] 4[/COLOR]"
+       version="4.2"
+       provider-name="SMARTIPTVSPAIN">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Smartiptvspain Official Plugin</summary>
+    <language>en</language>
+    <description lang="en">Smartiptvspain Official Plugin</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.TOTAL.GAME"
+       name="[COLOR red] TOTAL GAME [/COLOR]"
+       version="0.0.2"
+       provider-name="EL ESTAFADOR">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>clonado por TOTAL.GAME, </summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA REDSOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvalacarta"
+    name="tvalacarta"
+    version="4.0.5"
+    provider-name="tvalacarta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Televisión a la carta</summary>
+    <description lang="es">Para ver la televisión por Internet, a la carta y desde tu media center</description>
+    <summary lang="en">TV on demand (Spanish)</summary>
+    <description lang="en">Watch on demand spanish TV from your media center</description>
+    <platform>all</platform>
+    <license>GNU GPL v3</license>
+    <forum>http://www.mimediacenter.info/foro</forum>
+    <website>http://blog.tvalacarta.info/plugin-xbmc/tvalacarta</website>
+    <email>tvalacarta@gmail.com</email>
+    <source>https://github.com/tvalacarta/tvalacarta</source>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="login|startup">
+  </extension>
+</addon>
+
+<addon id="plugin.video.youtube" name="YouTube" version="6.0.0" provider-name="bromix">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.requests" version="2.12.4"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup"/>
+    <extension point="xbmc.python.module" library="resources/lib/"/>
+    <extension point="xbmc.addon.metadata">
+        <news>
+[add] Python 3 compat.
+[add] Settings -> Maintenance -> Delete temporary files
+[add] Settings -> General -> Rate video after watching
+[add] Settings -> API -> Enable API configuration page
+        - when enabled, visit http://ipaddress:port/api to configure API keys from a web browser
+        - port is configured in Settings - HTTP Server - Port
+[add] Storing personal api keys in api_keys.json, restore keys from json on settings loss
+[add] Storing login tokens in access_manager.json, restore tokens from json on settings loss
+[add] youtube_registration module, register developer keys and use them by appending an addon_id=:addon_id parameter to youtube add-on plugin urls
+[add] screensaver=true parameter to /play route - no suggested videos, no post play events, don't ask for quality
+[fix] Signature deciphering
+[fix] context menu after playback
+[fix] alternative player, do not append headers
+[fix/upd] post play events happen post play
+[fix/upd] set title from metadata on play
+[upd] Dutch strings [MB1968]
+[upd] French strings [bubuleur]
+[upd] Greek strings [twilight0]
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <summary lang="en_gb">Plugin for YouTube</summary>
+        <description lang="en_gb">YouTube is one of the biggest video-sharing websites of the world.</description>
+        <disclaimer lang="en_gb">This plugin is not endorsed by Google</disclaimer>
+        <summary lang="he_il">תוסף עבור YouTube</summary>
+        <description lang="he_il">YouTube הוא אחד מאתרי שיתוף הווידאו הגדולים בעולם.</description>
+        <summary lang="de_de">Plugin für YouTube</summary>
+        <description lang="de_de">YouTube ist eines der größten Video-Sharing-Websites der Welt.</description>
+        <summary lang="pl_pl">Wtyczka YouTube</summary>
+        <description lang="pl_pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
+        <summary lang="hu_hu">YouTube kiegészítő</summary>
+        <description lang="hu_hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
+        <summary lang="es_es">Plugin para YouTube</summary>
+        <description lang="es_es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+        <summary lang="ru_ru">Видеодополнение YouTube</summary>
+        <description lang="ru_ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
+        <summary lang="fr_fr">Plugin pour YouTube</summary>
+        <description lang="fr_fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
+        <summary lang="zh_cn">YouTube附加元件</summary>
+        <description lang="zh_cn">「Youtube」是全世界最大的影片分享網站</description>
+        <summary lang="bg_bg">Добавка за YouTube</summary>
+        <description lang="bg_bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
+        <summary lang="el_gr">Πρόσθετο YouTube</summary>
+        <description lang="el_gr">Το YouTube είναι μία από τις μεγαλύτερες ιστοσελίδες διαμοιρασμού βίντεο στον κόσμο.</description>
+        <disclaimer lang="el_gr">Η παρούσα μικροεφαρμογή δεν έχει υϊοθετηθεί από την Google</disclaimer>
+        <summary lang="nb_no">Tillegg for YouTube</summary>
+        <description lang="nb_no">YouTube er en av verdens største nettsider for videodeling.</description>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=325740</forum>
+        <website>https://www.youtube.com</website>
+        <email>ytplugin at datanet dot ws</email>
+        <source>https://github.com/jdf76/plugin.video.youtube</source>
+        <size>1776578</size>
+    </extension>
+</addon>
+
+<addon id="repository.resolverurl" name="[B][COLOR lime]Resolverurl repo[/COLOR][/B]" version="0.0.2" provider-name="resolver">
+	<extension point="xbmc.addon.repository" name="Resolverurl repo">
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
+
+<addon id="repository.xbmchub" name="TVADDONS.CO Add-on Repository" version="3.0.0" provider-name="tvaddons">
+	<extension point="xbmc.addon.repository" name="TVADDONS.CO Add-on Repository">
+	<dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+	</dir>
+
+    <dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-release-repo/raw/master/</datadir>
+    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Unofficial Kodi Addons from TVADDONS.CO</summary>
+		<description>Unofficial Kodi Addons from the TVADDONS.CO Add-on Repository. Please visit www.tvaddons.co for support!
+
+Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</description>
+         <disclaimer>TVADDONS.CO did not make all the add-ons in this repository and is not responsible for their content.</disclaimer>
+		<platform>all</platform>
+                <forum>https://www.tvaddons.co/forums</forum>
+                <website>https://www.tvaddons.co</website>
+	</extension>
+</addon>
+
+<addon id="script.game.2048" name="2048" version="0.0.2" provider-name="Tristan Fischer (sphere@dersphere.de)">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <platform>all</platform>
+        <website></website>
+        <source></source>
+        <forum></forum>
+        <email>sphere@dersphere.de</email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="en">Game 2048</summary>
+        <description lang="en">2048,[COLOR red]¡Combina todas las fichas similares para alcanzar una suma de 2048! Este juego de puzzle matemático te desafía a jugar con números pares. Puedes deslizar fichas en cualquier dirección para hacer que los dígitos idénticos se encuentren. ¡Intenta no quedarse sin espacio libre!PARA SALIR DEL ADDON EN WINDOWS DAR A LA TECLA DE BORRAR[/COLOR]</description>
+    </extension>
+</addon>
+
+<addon id="script.game.connect4"
+       version="0.2.0" name="[COLOR lime]FESTA CONECTA[/COLOR]"
+       provider-name="The[COLOR lime]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.t0mm0.common" optional="true" />
+  	<import addon="script.module.addon.common" optional="true" />
+  	<import addon="script.common.plugin.cache" optional="true" />
+  	<import addon="script.module.metahandler" optional="true" />
+  	<import addon="script.module.urlresolver" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable game video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Game - Connect 4</summary>
+  	<description>Game - Connect 4.  Currently for 2 human players.  Users a 720p .xml skin file.</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum></forum>
+  	<website></website>
+  	<email></email>
+  </extension>
+</addon>
+
+<addon id="script.game.netwalk" name="Netwalk Game" version="0.0.5" provider-name="Tristan Fischer (sphere@dersphere.de)">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <platform>all</platform>
+        <website></website>
+        <source>https://github.com/dersphere/script.game.netwalk</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=156976</forum>
+        <email>sphere@dersphere.de</email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="be">The Game Netwalk</summary>
+        <summary lang="de">The Game Netwalk</summary>
+        <summary lang="el">The Game Netwalk</summary>
+        <summary lang="en">The Game Netwalk</summary>
+        <summary lang="es">El Juego Netwalk</summary>
+        <summary lang="fr">Le Jeu Netwalk</summary>
+        <summary lang="gl">Xogo Netwalk</summary>
+        <summary lang="hr">The Game Netwalk</summary>
+        <summary lang="it">Il Gioco Netwalk</summary>
+        <summary lang="pl">Gra Netwalk</summary>
+        <summary lang="pt">O Game Netwalk</summary>
+        <summary lang="pt_BR">The Game Netwalk</summary>
+        <summary lang="sv">The Game Netwalk</summary>
+        <summary lang="zh">网络漫步游戏</summary>
+        <description lang="be">Netwalk is a puzzle-like game where you have to rotate tiles.[CR]Your goal is to connect all terminals to the server.[CR][CR]See in-game help for more informations.</description>
+        <description lang="de">Netwalk ist ein Puzzelähnliches Spiel, bei dem Kacheln rotiert werden müssen.[CR]Ziel ist es alle Terminals mit den Servern zu verbinden.[CR][CR]Weitere Informationen befinden sich im Hilfesystem des Spiels.</description>
+        <description lang="el">Το Netwalk είναι ένα παιχνίδι παζλ όπου πρέπει να περιστρέφετε τα κομμάτια.[CR]Στόχος σας είναι να συνδέσετε όλα τα τερματικά στο διακομιστή.[CR][CR]Δείτε τη βοήθεια για περισσότερες πληροφορίες.</description>
+        <description lang="en">Netwalk is a puzzle-like game where you have to rotate tiles.[CR]Your goal is to connect all terminals to the server.[CR][CR]See in-game help for more informations.</description>
+        <description lang="es">Netwalk es un juego de tipo puzzle en el que tienes que rotar las piezas.[CR]El objetivo es conectar todos los terminales al servidor.[CR][CR]Sigue las instrucciones del juego para más información.</description>
+        <description lang="fr">Netwalk est un jeu de puzzle où vous devez faire pivoter les faces.[CR]Votre but est de connecter tous les terminaux au serveur.[CR]&#10;[CR]Voir l'aide dans le jeu pour plus d'informations.</description>
+        <description lang="gl">Netwalk e un xogo estilo puzzle onde terá de xirar as fichas.[CR]O obxectivo é conectar todos os terminais ao servidor.[CR][CR]Ver a axuda do xogo para máis información.</description>
+        <description lang="hr">Netwalk je puzle igra gdje morate okretati pločice.[CR]Vaš cilj je povezivanje svih terminala na poslužitelj.[CR][CR]Pogledajte pomoć u igri za više informacija.</description>
+        <description lang="it">Netwalk è n puzzle game dove devi rotare le caselle. [CR]L'obiettivo è collegare tutti i terminali al server.[CR][CR]Vedi l'aiuto per maggiori informazioni.</description>
+        <description lang="pl">Netwalk jest grą podobną do puzzli, w której obracasz płytkami.[CR]Twoim celem jest połączyć wszystkie terminale do serwera.[CR][CR]Sprawdź pomoc w grze, by dostać więcej informacji.</description>
+        <description lang="pt">O Netwalk é um jogo tipo puzzle onde tem de rodar blocos.[CR]O objectivo é ligar todos os terminais ao servidor.[CR][CR]Verifique a ajuda dentrod o jogo para mais informação.</description>
+        <description lang="pt_BR">NetWalk é um jogo de quebra-cabeça como onde você tem que girar blocos. [CR] Seu objetivo é conectar todos os terminais para o servidor. [CR] [CR] Veja ajuda do jogo para mais informações.</description>
+        <description lang="sv">Netwalk är ett pussel-liknande spel där du roterar brickor.[CR]Ditt mål är att ansluta alla terminaler till servern.[CR][CR]Se hjälpen för mer information.</description>
+        <description lang="zh">网络漫步是一个旋转管线的解迷类游戏。[CR]你的目标是将所有终端连接到服务器。[CR][CR]更多信息见游戏中的介绍。</description>
+    </extension>
+</addon>
+
+<addon id="script.game.yahtzee" name="Yahtzee Game" version="0.4.1" provider-name="Mark Koenig">
+    <requires>
+        <import addon="xbmc.python" version="2.10.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Yahtzee</summary>
+        <summary lang="de">Yahtzee</summary>
+        <description lang="en">TRADUCIDO AL ESPAÑOL POR ADDON FESTA.Se juega por turnos. A su turno, tras haber lanzado los cinco dados una primera vez, se puede decidir relanzar todos o parte de sus dados para intentar mejorar su juego. cuando se está satisfecho, o los tres lanzamientos permitidos son efectuados, hay que escoger una línea en la pizarra de puntuaciones para anotar sus puntos.
+
+Los puntos a anotar dependen de la combinación que se consiga obtener con sus dados, y de la línea en la que se decida anotar. En general, se anotan 0 puntos si no se consigue hacer la combinación requerida para la línea escogida. A veces, usted se verá obligado a marcar una línea con 0 puntos porque no tenga otra elección o porque la combinación es demasiado difícil de obtener y usted desea proteger otras líneas (esto sucede especialmente con la categoría yhatzee que es muy difícil realizar). Cada línea de la pizarra sólo se utiliza una vez, no es posible rectificar una línea ya ocupada. Una partida se compone pues de 13 turnos, al cabo de los cuáles las 13 líneas de la pizarra están rellenas.</description>
+        <description lang="de">Yahtzee ist ein popul&#228;res Spiel. Das Ziel ist es, die meisten Punkte mit 5 W&#252;rfel zu machen. Jede Runde darf man 3 mal w&#252;rfeln. Ein Spiel hat 13 Runden und jede Runde muss ein Kombination eingetragen werden. Wurde ein Kombination benutzt, ist sie nicht mehr verf&#252;gbar.</description>
+        <license>GPL 2.0</license>
+	<platform>all</platform>
+	<language>en,de</language>
+	<email>mark.koening@kleiner-schelm.de</email>
+	<website>https://www.kodinerds.net</website>
+        <source>https://github.com/mking2203/script.game.yahtzee</source>
+        <assets>
+	    <icon>icon.png</icon>
+	    <fanart>fanart.png</fanart>
+	    <screenshot>resources/screenshot001.jpg</screenshot>
+	    <screenshot>resources/screenshot002.jpg</screenshot>
+	    <screenshot>resources/screenshot003.jpg</screenshot>
+	    <screenshot>resources/screenshot004.jpg</screenshot>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.i.cristalazul" name="Instalador [COLOR aqua]CRISTAL AZUL[/COLOR]" version="1.4" provider-name="www.stva.ga">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+
+
+    </requires>
+    <extension point="xbmc.python.script" library="autoexec.py">
+        <provides>executable</provides>
+    </extension>
+	<extension point="xbmc.service" library="main.py">
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Instalador CRISTAL AZUL instalara el addon cristal azul y todas sus dependencias.</summary>
+        <description lang="en_GB"></description>
+        <language></language>
+        <platform>all</platform>
+        <license>unlicense</license>
+        <forum></forum>
+        <website></website>
+        <email></email>
+        <source></source>
+        <news></news>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.video.F4mProxy" name="F4mProxy" version="2.8.8" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.requests" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Proxy for f4m</summary>
+        <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+    </extension>
+</addon>
+</addons>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KGI YouTube API KEYS</summary>
+    <description lang="en">KGI YouTube API KEYS Tool</description>
+    <disclaimer lang="en">Tool to add YouTube API Keys to YouTube Addon.</disclaimer>
+    <summary lang="es">KGI YouTube API KEYS</summary>
+    <description lang="es">Herramienta KGI YouTube API KEYS</description>
+    <disclaimer lang="es">Herramienta que añade una API Key al addon de YouTube.</disclaimer>
+    <platform>all</platform>
+        <website></website>
+        <video_guide></video_guide>
+  </extension>
+</addon>
+
+<addon id="plugin.program.kodileiawizard" name="KODILEIA [COLOR gold]WIZARDS[/COLOR]" version="1.10" provider-name="Supertopo, Lou, JuanS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KODILEIA [COLOR gold]WIZARDS[/COLOR]</summary>
+    <description lang="en">Addon instalador de los wizards Kodileia para Kodi 17 y 18
+Fuente: www.kodileia.xyz
+Telegram: t.me/kodi18</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.script.afestaajedrez" name="[COLOR lime]AJEDREZ FESTA[/COLOR]" version="0.0.2" provider-name="FESTA ADDONS lourdes y picapau(addonfesta@gmail.com)">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">ajedrez para Kodi</summary>
+        <description lang="en">juega al ajedrez en kodi! juego traducido al castellano. CREADO POR TOM C. SCHEPER Y MODIFICADO POR ADDONS FESTA, LOURDES Y PICAPAU.
+        </description>
+        <license>All rights reserved</license>
+        <language></language>
+        <forum></forum>
+        <source>https://github.com/tomcss/script.chess</source>
+        <email>addonfesta@gmail.com</email>
+    </extension>
+</addon>
+
+<addon id="plugin.video.aerobic"
+       name="[COLOR pink]Aerobic[/COLOR]"
+       version="0.0.2"
+       provider-name="Juldelju">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Juldelju</summary>
+    <description>Addons dedicado para disfrutar haciendo ejercicio con las coreografias de aerobic/step,zumba,just dande y un poquito de relajacion.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ajedrez"
+	name="Ajedrez"
+	version="1.0"
+	provider-name="ibernet">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Canales Youtube de ajedrez</summary>
+    <description lang="es">Canales dedicados al ajedrez .</description>
+    <platform>all</platform>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+		</assets>
+       </extension>
+</addon>
+
+<addon id="plugin.video.blackghost"
+       name="Black Ghost Free"
+       version="99999999999999999999999999999999999.6"
+       provider-name="CRISTAL AZUL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.resolveurl" />
+	<import addon="script.module.urlresolver" optional="true" />
+    <import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>BlackGhost FREE Addon, para todos ustedes, libre de codigos, de paypal y donaciones, desde cristal azul liberamos el codigo, ya que la mayoria es nuestro</summary>
+    <description>
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.cocina"
+	name="Cocina"
+	version="1.3"
+	provider-name="ibernet">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Canales Youtube de cocina</summary>
+    <description lang="es">Canales dedicados a la cocina.</description>
+    <platform>all</platform>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+		</assets>
+       </extension>
+</addon>
+
+<addon id="plugin.video.cristalazul"
+       name="[COLOR aqua]CRISTAL AZUL[/COLOR]"
+       version="0.0.7"
+       provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+
+        <dir>
+            <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+    </extension>
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>creado por picapau, lourdes, supertopo y luisma</summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>ºº
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.escalofrios"
+       name="[COLOR silver]ESCALOFRIOS[/COLOR]"
+       version="6.6.6"
+       provider-name="Equipo Festa y Tvchopo">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube"  />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Equipo Festa y Tvchopo</summary>
+    <description>Addon de terror</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.7.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+
+
+    <extension point="xbmc.addon.metadata">
+        <summary>f4mTester</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.festa"
+       name="[COLOR aqua]*[/COLOR][COLOR lime]FESTA[/COLOR][COLOR aqua]*[/COLOR]"
+       version="0.0.11"
+       provider-name="lourdes,picapau y el equipo de FESTA">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por lourdes, picapau y el equipo de FESTA</summary>
+    <description>MUCHOS VIERNES A LAS 22:00H (HORA PENINSULAR),SACAMOS UNA NUEVA SECCION. festa 2017/18 version 0.0.10 , modificado para que sea tambien un repositorio,CONTEO DE ENTRADAS AL ADDON</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.festa.inklusion"
+       name="[B][COLOR white]INKLUSION[/COLOR][/B]"
+       version="0.0.1"
+       provider-name="Inklusion por Team FestayCristal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Inklusion por Team FestayCristal</summary>
+    <description>ORIGENES: Este proyecto nace el 5 de enero 2018 de la unión de varios equipos de kodi (Adrianlist, Festa, Kodispain,Tvchopo)
+De esa unión nació el addon más especial de kodi, SIN BARRERAS.
+Un addon dedicado a personas con algún tipo de discapacidad, visual, auditiva, motora, ...
+Un proyecto hecho con mucha ilusión, cariño y respeto por parte de los creadores.
+Como en la vida misma, los amigos se enfandan, otros toman otro rumbo y los caminos se separan, pero el proyecto continúa por parte de algunos miembros.
+2 años y medio después nos arrebatan: el grupo, el nombre, pero jamas las RAICES.
+No pasa nada, quien no ha cambiado alguna vez de domicilio o se ha hecho un cambio de look?
+Pues bien, aqui surge INKLUSION, nueva casa, nuevo look, mismo mantenimiento que el último año y medio.LAS RAICES NO SE PUEDEN BORRAR CON UN DEDO.
+Gracias a los que alguna vez formasteis parte de esto.
+Continuan con el mantenimiento: Grupo @addonfestaycristal
+Creadores Sin Barreras: Adrián Hdz, Delhia, Er Migué, Iker, Jorge H, La mala de la novela, LouFesta, Luisma, Pepe, Picapau, Supertopo, Torete.
+Colaboradores Sin Barreras: Jesus, Lis, JuanS, El rincon de lolo, ToniClasico, AnaM, Natalia, Dani, MikelVito, ElecdekaurUguay</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.festakids"
+       name="[B][COLOR antiquewhite]FESTA[COLOR darkgoldenrod]KIDS[/COLOR][/B]"
+       version="0.0.9"
+       provider-name="Festa team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+
+  <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Festa team</summary>
+    <description>Dedicado a los  pequeñ@s y adolescentes de la familia Festa.Addon de entretenimiento y educativo, porque con Festa Kids, aprender es divertido.</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.FusionOrg" name="Fusion Org"
+	version="0.65" provider-name="Team-Fusion">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0" />
+		<import addon="script.module.requests" version="2.22.0" />
+		<import addon="script.module.urlresolver" version="5.0.54" />
+		<import addon="script.module.resolveurl" version="5.0.38"
+			optional="true" />
+		<import addon="script.module.urllib3" version="1.25.6" />
+		<import addon="script.trakt" version="3.2.4" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource"
+		library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.repository" name="Fusion.org">
+		<info>https://repositorio.fusionorg.net/addons.xml</info>
+		<checksum>https://repositorio.fusionorg.net/addons.xml.md5</checksum>
+		<datadir zip="true">https://repositorio.fusionorg.net/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Fusion Org</summary>
+		<description lang="en">The Future is in You</description>
+		<disclaimer lang="en">
+            <![CDATA[Fusion org, fusionorg.net does [B]not
+store content such as videos, audio or images[/B], everything
+shown in this addon plugin is a compilation of content found
+from [B]different web pages[/B].]]>
+		</disclaimer>
+		<summary lang="es">Fusion Org</summary>
+		<description lang="es">El Futuro esta en Ustedes
+		</description>
+		<disclaimer lang="es">
+            <![CDATA[Fusion org, fusionorg.net [B]no
+almacena contenido como videos, audio o imagenes[/B], todo
+lomostrado en este plugin addon es una recopilacion de
+[B]contenido encontrado de diferentes paginas web[/B].]]>
+		</disclaimer>
+		<language>es-MX</language>
+		<platform>all</platform>
+		<license>GPL-2.0</license>
+		<forum></forum>
+		<website>https://fusionorg.net/</website>
+		<email></email>
+		<source>https://repositorio.fusionorg.net/</source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/media/ss/1.jpg</screenshot>
+			<screenshot>resources/media/ss/2.jpg</screenshot>
+			<screenshot>resources/media/ss/3.jpg</screenshot>
+			<screenshot>resources/media/ss/4.jpg</screenshot>
+			<screenshot>resources/media/ss/5.jpg</screenshot>
+		</assets>
+		<news>
+            <![CDATA[Cambios de la version 0.65 (10/03/2020)
+[FIX] Corregido [B]Gamovideo[/B]
+[IMPROVEMENT] Mejora [B]UpToStream[/B]]]>
+		</news>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.iptvlistas"
+       name="[COLOR lime]iptv listas[/COLOR]"
+       version="0.0.1"
+       provider-name="iptv listas">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">iptv listas Official Plugin</summary>
+    <language>en</language>
+    <description lang="en">iptv listas Official Plugin</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.lilianime"
+       name="[COLOR pink]Lili Anime[/COLOR]"
+       version="0.0.7"
+       provider-name="Lis,JuanS,Lou">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" />
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Creado por Lis,JuanS,Lou</summary>
+    <description>Se recomienda supervisión parental para acceder directamente a la sección infantil.Sección +16 años con escenas de desnudez fuerte y explícita, escenas fuertes,imagenes muy intensas y sangre en mucha cantidad.Addon dedicado a los  pequeñ@s y adolescentes de la familia Festa.Addon de entretenimiento y educativo, porque con Festa Kids, aprender es divertido.</description>
+    <platform>all</platform>
+	<assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.Manuart"
+       name="[COLOR coral]MANUART[/COLOR]"
+       version="0.0.1"
+       provider-name="AnaM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube"  />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>AnaM</summary>
+    <description>La creatividad no consiste en una nueva manera, sino en una nueva visión. La creatividad es la inteligencia divirtiéndose.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mundocine"
+       name="[COLOR white]Mundo[/COLOR] [COLOR grey]Cine[/COLOR]"
+       version="1.0.5"
+       provider-name="Toni clasico">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR white]Mundo[/COLOR] [COLOR grey]Cine[/COLOR]</summary>
+    <description lang="en">[COLOR grey]Vive todo el cine clasico.[/COLOR].</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sinbarreras"
+       name="[COLOR chartreuse]SIN BARRERAS[/COLOR]"
+       version="1.7"
+       provider-name="SinBarreras">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.resolveurl" optional="true"/>
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/</datadir>
+    </extension>
+
+
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>creado por Team Festa y Tvchopo</summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>
+    <platform>all</platform>
+	  <assets>
+		<icon>icon.gif</icon>
+	  </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.smartiptvspain-4"
+       name="[COLOR lime]SmartIptvSpain-[/COLOR][COLOR red] 4[/COLOR]"
+       version="4.2"
+       provider-name="SMARTIPTVSPAIN">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Smartiptvspain Official Plugin</summary>
+    <language>en</language>
+    <description lang="en">Smartiptvspain Official Plugin</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.TOTAL.GAME"
+       name="[COLOR red] TOTAL GAME [/COLOR]"
+       version="0.0.2"
+       provider-name="EL ESTAFADOR">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+	<import addon="script.module.simplejson" />
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+   <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+    </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>clonado por TOTAL.GAME, </summary>
+    <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA REDSOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvalacarta"
+    name="tvalacarta"
+    version="4.0.5"
+    provider-name="tvalacarta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Televisión a la carta</summary>
+    <description lang="es">Para ver la televisión por Internet, a la carta y desde tu media center</description>
+    <summary lang="en">TV on demand (Spanish)</summary>
+    <description lang="en">Watch on demand spanish TV from your media center</description>
+    <platform>all</platform>
+    <license>GNU GPL v3</license>
+    <forum>http://www.mimediacenter.info/foro</forum>
+    <website>http://blog.tvalacarta.info/plugin-xbmc/tvalacarta</website>
+    <email>tvalacarta@gmail.com</email>
+    <source>https://github.com/tvalacarta/tvalacarta</source>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="login|startup">
+  </extension>
+</addon>
+
+<addon id="plugin.video.youtube" name="YouTube" version="6.0.0" provider-name="bromix">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.requests" version="2.12.4"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup"/>
+    <extension point="xbmc.python.module" library="resources/lib/"/>
+    <extension point="xbmc.addon.metadata">
+        <news>
+[add] Python 3 compat.
+[add] Settings -> Maintenance -> Delete temporary files
+[add] Settings -> General -> Rate video after watching
+[add] Settings -> API -> Enable API configuration page
+        - when enabled, visit http://ipaddress:port/api to configure API keys from a web browser
+        - port is configured in Settings - HTTP Server - Port
+[add] Storing personal api keys in api_keys.json, restore keys from json on settings loss
+[add] Storing login tokens in access_manager.json, restore tokens from json on settings loss
+[add] youtube_registration module, register developer keys and use them by appending an addon_id=:addon_id parameter to youtube add-on plugin urls
+[add] screensaver=true parameter to /play route - no suggested videos, no post play events, don't ask for quality
+[fix] Signature deciphering
+[fix] context menu after playback
+[fix] alternative player, do not append headers
+[fix/upd] post play events happen post play
+[fix/upd] set title from metadata on play
+[upd] Dutch strings [MB1968]
+[upd] French strings [bubuleur]
+[upd] Greek strings [twilight0]
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <summary lang="en_gb">Plugin for YouTube</summary>
+        <description lang="en_gb">YouTube is one of the biggest video-sharing websites of the world.</description>
+        <disclaimer lang="en_gb">This plugin is not endorsed by Google</disclaimer>
+        <summary lang="he_il">תוסף עבור YouTube</summary>
+        <description lang="he_il">YouTube הוא אחד מאתרי שיתוף הווידאו הגדולים בעולם.</description>
+        <summary lang="de_de">Plugin für YouTube</summary>
+        <description lang="de_de">YouTube ist eines der größten Video-Sharing-Websites der Welt.</description>
+        <summary lang="pl_pl">Wtyczka YouTube</summary>
+        <description lang="pl_pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
+        <summary lang="hu_hu">YouTube kiegészítő</summary>
+        <description lang="hu_hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
+        <summary lang="es_es">Plugin para YouTube</summary>
+        <description lang="es_es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+        <summary lang="ru_ru">Видеодополнение YouTube</summary>
+        <description lang="ru_ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
+        <summary lang="fr_fr">Plugin pour YouTube</summary>
+        <description lang="fr_fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
+        <summary lang="zh_cn">YouTube附加元件</summary>
+        <description lang="zh_cn">「Youtube」是全世界最大的影片分享網站</description>
+        <summary lang="bg_bg">Добавка за YouTube</summary>
+        <description lang="bg_bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
+        <summary lang="el_gr">Πρόσθετο YouTube</summary>
+        <description lang="el_gr">Το YouTube είναι μία από τις μεγαλύτερες ιστοσελίδες διαμοιρασμού βίντεο στον κόσμο.</description>
+        <disclaimer lang="el_gr">Η παρούσα μικροεφαρμογή δεν έχει υϊοθετηθεί από την Google</disclaimer>
+        <summary lang="nb_no">Tillegg for YouTube</summary>
+        <description lang="nb_no">YouTube er en av verdens største nettsider for videodeling.</description>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=325740</forum>
+        <website>https://www.youtube.com</website>
+        <email>ytplugin at datanet dot ws</email>
+        <source>https://github.com/jdf76/plugin.video.youtube</source>
+        <size>1776578</size>
+    </extension>
+</addon>
+
+<addon id="repository.resolverurl" name="[B][COLOR lime]Resolverurl repo[/COLOR][/B]" version="0.0.2" provider-name="resolver">
+	<extension point="xbmc.addon.repository" name="Resolverurl repo">
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
+
+<addon id="repository.xbmchub" name="TVADDONS.CO Add-on Repository" version="3.0.0" provider-name="tvaddons">
+	<extension point="xbmc.addon.repository" name="TVADDONS.CO Add-on Repository">
+	<dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+	</dir>
+
+    <dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-release-repo/raw/master/</datadir>
+    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Unofficial Kodi Addons from TVADDONS.CO</summary>
+		<description>Unofficial Kodi Addons from the TVADDONS.CO Add-on Repository. Please visit www.tvaddons.co for support!
+
+Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</description>
+         <disclaimer>TVADDONS.CO did not make all the add-ons in this repository and is not responsible for their content.</disclaimer>
+		<platform>all</platform>
+                <forum>https://www.tvaddons.co/forums</forum>
+                <website>https://www.tvaddons.co</website>
+	</extension>
+</addon>
+
+<addon id="script.game.2048" name="2048" version="0.0.2" provider-name="Tristan Fischer (sphere@dersphere.de)">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <platform>all</platform>
+        <website></website>
+        <source></source>
+        <forum></forum>
+        <email>sphere@dersphere.de</email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="en">Game 2048</summary>
+        <description lang="en">2048,[COLOR red]¡Combina todas las fichas similares para alcanzar una suma de 2048! Este juego de puzzle matemático te desafía a jugar con números pares. Puedes deslizar fichas en cualquier dirección para hacer que los dígitos idénticos se encuentren. ¡Intenta no quedarse sin espacio libre!PARA SALIR DEL ADDON EN WINDOWS DAR A LA TECLA DE BORRAR[/COLOR]</description>
+    </extension>
+</addon>
+
+<addon id="script.game.connect4"
+       version="0.2.0" name="[COLOR lime]FESTA CONECTA[/COLOR]"
+       provider-name="The[COLOR lime]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.t0mm0.common" optional="true" />
+  	<import addon="script.module.addon.common" optional="true" />
+  	<import addon="script.common.plugin.cache" optional="true" />
+  	<import addon="script.module.metahandler" optional="true" />
+  	<import addon="script.module.urlresolver" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable game video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Game - Connect 4</summary>
+  	<description>Game - Connect 4.  Currently for 2 human players.  Users a 720p .xml skin file.</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum></forum>
+  	<website></website>
+  	<email></email>
+  </extension>
+</addon>
+
+<addon id="script.game.netwalk" name="Netwalk Game" version="0.0.5" provider-name="Tristan Fischer (sphere@dersphere.de)">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <platform>all</platform>
+        <website></website>
+        <source>https://github.com/dersphere/script.game.netwalk</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=156976</forum>
+        <email>sphere@dersphere.de</email>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <summary lang="be">The Game Netwalk</summary>
+        <summary lang="de">The Game Netwalk</summary>
+        <summary lang="el">The Game Netwalk</summary>
+        <summary lang="en">The Game Netwalk</summary>
+        <summary lang="es">El Juego Netwalk</summary>
+        <summary lang="fr">Le Jeu Netwalk</summary>
+        <summary lang="gl">Xogo Netwalk</summary>
+        <summary lang="hr">The Game Netwalk</summary>
+        <summary lang="it">Il Gioco Netwalk</summary>
+        <summary lang="pl">Gra Netwalk</summary>
+        <summary lang="pt">O Game Netwalk</summary>
+        <summary lang="pt_BR">The Game Netwalk</summary>
+        <summary lang="sv">The Game Netwalk</summary>
+        <summary lang="zh">网络漫步游戏</summary>
+        <description lang="be">Netwalk is a puzzle-like game where you have to rotate tiles.[CR]Your goal is to connect all terminals to the server.[CR][CR]See in-game help for more informations.</description>
+        <description lang="de">Netwalk ist ein Puzzelähnliches Spiel, bei dem Kacheln rotiert werden müssen.[CR]Ziel ist es alle Terminals mit den Servern zu verbinden.[CR][CR]Weitere Informationen befinden sich im Hilfesystem des Spiels.</description>
+        <description lang="el">Το Netwalk είναι ένα παιχνίδι παζλ όπου πρέπει να περιστρέφετε τα κομμάτια.[CR]Στόχος σας είναι να συνδέσετε όλα τα τερματικά στο διακομιστή.[CR][CR]Δείτε τη βοήθεια για περισσότερες πληροφορίες.</description>
+        <description lang="en">Netwalk is a puzzle-like game where you have to rotate tiles.[CR]Your goal is to connect all terminals to the server.[CR][CR]See in-game help for more informations.</description>
+        <description lang="es">Netwalk es un juego de tipo puzzle en el que tienes que rotar las piezas.[CR]El objetivo es conectar todos los terminales al servidor.[CR][CR]Sigue las instrucciones del juego para más información.</description>
+        <description lang="fr">Netwalk est un jeu de puzzle où vous devez faire pivoter les faces.[CR]Votre but est de connecter tous les terminaux au serveur.[CR]&#10;[CR]Voir l'aide dans le jeu pour plus d'informations.</description>
+        <description lang="gl">Netwalk e un xogo estilo puzzle onde terá de xirar as fichas.[CR]O obxectivo é conectar todos os terminais ao servidor.[CR][CR]Ver a axuda do xogo para máis información.</description>
+        <description lang="hr">Netwalk je puzle igra gdje morate okretati pločice.[CR]Vaš cilj je povezivanje svih terminala na poslužitelj.[CR][CR]Pogledajte pomoć u igri za više informacija.</description>
+        <description lang="it">Netwalk è n puzzle game dove devi rotare le caselle. [CR]L'obiettivo è collegare tutti i terminali al server.[CR][CR]Vedi l'aiuto per maggiori informazioni.</description>
+        <description lang="pl">Netwalk jest grą podobną do puzzli, w której obracasz płytkami.[CR]Twoim celem jest połączyć wszystkie terminale do serwera.[CR][CR]Sprawdź pomoc w grze, by dostać więcej informacji.</description>
+        <description lang="pt">O Netwalk é um jogo tipo puzzle onde tem de rodar blocos.[CR]O objectivo é ligar todos os terminais ao servidor.[CR][CR]Verifique a ajuda dentrod o jogo para mais informação.</description>
+        <description lang="pt_BR">NetWalk é um jogo de quebra-cabeça como onde você tem que girar blocos. [CR] Seu objetivo é conectar todos os terminais para o servidor. [CR] [CR] Veja ajuda do jogo para mais informações.</description>
+        <description lang="sv">Netwalk är ett pussel-liknande spel där du roterar brickor.[CR]Ditt mål är att ansluta alla terminaler till servern.[CR][CR]Se hjälpen för mer information.</description>
+        <description lang="zh">网络漫步是一个旋转管线的解迷类游戏。[CR]你的目标是将所有终端连接到服务器。[CR][CR]更多信息见游戏中的介绍。</description>
+    </extension>
+</addon>
+
+<addon id="script.game.yahtzee" name="Yahtzee Game" version="0.4.1" provider-name="Mark Koenig">
+    <requires>
+        <import addon="xbmc.python" version="2.10.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="game.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Yahtzee</summary>
+        <summary lang="de">Yahtzee</summary>
+        <description lang="en">TRADUCIDO AL ESPAÑOL POR ADDON FESTA.Se juega por turnos. A su turno, tras haber lanzado los cinco dados una primera vez, se puede decidir relanzar todos o parte de sus dados para intentar mejorar su juego. cuando se está satisfecho, o los tres lanzamientos permitidos son efectuados, hay que escoger una línea en la pizarra de puntuaciones para anotar sus puntos.
+
+Los puntos a anotar dependen de la combinación que se consiga obtener con sus dados, y de la línea en la que se decida anotar. En general, se anotan 0 puntos si no se consigue hacer la combinación requerida para la línea escogida. A veces, usted se verá obligado a marcar una línea con 0 puntos porque no tenga otra elección o porque la combinación es demasiado difícil de obtener y usted desea proteger otras líneas (esto sucede especialmente con la categoría yhatzee que es muy difícil realizar). Cada línea de la pizarra sólo se utiliza una vez, no es posible rectificar una línea ya ocupada. Una partida se compone pues de 13 turnos, al cabo de los cuáles las 13 líneas de la pizarra están rellenas.</description>
+        <description lang="de">Yahtzee ist ein popul&#228;res Spiel. Das Ziel ist es, die meisten Punkte mit 5 W&#252;rfel zu machen. Jede Runde darf man 3 mal w&#252;rfeln. Ein Spiel hat 13 Runden und jede Runde muss ein Kombination eingetragen werden. Wurde ein Kombination benutzt, ist sie nicht mehr verf&#252;gbar.</description>
+        <license>GPL 2.0</license>
+	<platform>all</platform>
+	<language>en,de</language>
+	<email>mark.koening@kleiner-schelm.de</email>
+	<website>https://www.kodinerds.net</website>
+        <source>https://github.com/mking2203/script.game.yahtzee</source>
+        <assets>
+	    <icon>icon.png</icon>
+	    <fanart>fanart.png</fanart>
+	    <screenshot>resources/screenshot001.jpg</screenshot>
+	    <screenshot>resources/screenshot002.jpg</screenshot>
+	    <screenshot>resources/screenshot003.jpg</screenshot>
+	    <screenshot>resources/screenshot004.jpg</screenshot>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.i.cristalazul" name="Instalador [COLOR aqua]CRISTAL AZUL[/COLOR]" version="1.4" provider-name="www.stva.ga">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+
+
+    </requires>
+    <extension point="xbmc.python.script" library="autoexec.py">
+        <provides>executable</provides>
+    </extension>
+	<extension point="xbmc.service" library="main.py">
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Instalador CRISTAL AZUL instalara el addon cristal azul y todas sus dependencias.</summary>
+        <description lang="en_GB"></description>
+        <language></language>
+        <platform>all</platform>
+        <license>unlicense</license>
+        <forum></forum>
+        <website></website>
+        <email></email>
+        <source></source>
+        <news></news>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.video.F4mProxy" name="F4mProxy" version="2.8.8" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.requests" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Proxy for f4m</summary>
+        <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+    </extension>
+</addon>
+</addons>
